@@ -1,5 +1,5 @@
 -- Interface Gráfica Simples em Português
--- by GBzin
+-- by GBzin 
 
 
 local player = game.Players.LocalPlayer
