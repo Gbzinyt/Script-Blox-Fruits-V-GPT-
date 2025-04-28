@@ -1,5 +1,6 @@
 -- Interface Gráfica Simples em Português
--- by Gabriel
+-- by GBzin
+
 
 local player = game.Players.LocalPlayer
 local screenGui = Instance.new("ScreenGui", player.PlayerGui)
